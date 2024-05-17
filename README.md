@@ -3,5 +3,7 @@
 
 # Documentation
 
+You can find the documentation in the [Wiki](https://github.com/dylogaming/ImmersiveTemplate/wiki).
+
 ![image](https://github.com/dylogaming/ImmersiveTemplate/assets/109330535/9a920af5-0634-441e-bfdf-123bd00d803d)
 
